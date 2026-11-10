@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="NOVA - modern website concept preview">
+<rect width="1200" height="680" fill="#0b0c10"/>
+
+<rect x="38" y="36" width="1124" height="608" rx="20" fill="#151513" stroke="#333330" stroke-width="2"/>
+<rect x="38" y="36" width="1124" height="70" rx="20" fill="#1c1d19"/>
+<text x="77" y="82" font-family="Arial" font-size="28" font-weight="700" letter-spacing="-1" fill="#f1f1e9">NOVA<tspan fill="#d8e0a5">✳</tspan></text>
+<text x="756" y="78" font-family="Arial" font-size="18" fill="#b0b2a5">Work</text><text x="838" y="78" font-family="Arial" font-size="18" fill="#b0b2a5">Studio</text>
+<rect x="949" y="54" width="177" height="36" rx="18" fill="#d8e0a5"/>
+<text x="1037" y="79" text-anchor="middle" font-family="Arial" font-size="17" font-weight="700" fill="#25261c">Let's talk  ↗</text>
+<text x="81" y="163" font-family="Arial" font-size="19" letter-spacing="2" fill="#d8e0a5">STUDIO FOR DIGITAL CLARITY</text>
+<text x="76" y="276" font-family="Arial" font-size="99" font-weight="700" letter-spacing="-5" fill="#f0f0e8">Less, but</text>
+<text x="77" y="370" font-family="Arial" font-size="99" font-weight="700" letter-spacing="-5" fill="#f0f0e8">better<tspan fill="#d8e0a5">.</tspan></text>
+<text x="80" y="439" font-family="Arial" font-size="24" fill="#a5a79d">Digital experiences with direction,</text>
+<text x="80" y="474" font-family="Arial" font-size="24" fill="#a5a79d">detail and unmistakable character.</text>
+<rect x="80" y="508" width="212" height="62" rx="31" fill="#d8e0a5"/><text x="186" y="546" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700" fill="#20221b">Explore work ↗</text>
+<circle cx="870" cy="355" r="185" fill="#d8e0a5"/>
+<circle cx="870" cy="355" r="118" fill="#1c1d19"/>
+<rect x="855" y="159" width="30" height="392" fill="#d8e0a5" transform="rotate(26 870 355)"/>
+<text x="840" y="603" font-family="Arial" font-size="17" fill="#7c8174">WEB CONCEPT / 02</text>
+
+</svg>

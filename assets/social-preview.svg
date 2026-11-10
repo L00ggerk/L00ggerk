@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="L00ggerk social preview">
+<rect width="1280" height="640" fill="#0b0c10"/>
+
+<rect x="32" y="32" width="1216" height="576" fill="#101115" stroke="#323439" stroke-width="2"/>
+<rect x="65" y="69" width="17" height="17" fill="#e77765"/>
+<text x="99" y="86" font-size="21" letter-spacing="3" font-family="Arial" fill="#9da1a8">DEVELOPMENT / DESIGN / WEB</text>
+<text x="63" y="335" font-size="145" letter-spacing="-10" font-family="Arial" font-weight="900" fill="#f1f0ee">L00ggerk<tspan fill="#e77765">.</tspan></text>
+<line x1="65" y1="404" x2="1216" y2="404" stroke="#383a40" stroke-width="2"/>
+<text x="68" y="457" font-size="33" font-family="Arial" fill="#c9c9c9">Custom applications. Websites. UI/UX design.</text>
+<text x="68" y="551" font-size="21" font-family="Arial" fill="#93959d" letter-spacing="2">INDEPENDENT DEVELOPER &amp; DESIGNER</text>
+<text x="1215" y="551" text-anchor="end" font-size="19" font-family="Arial" fill="#e77765">L00 / 2026</text>
+
+</svg>

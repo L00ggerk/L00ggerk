@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-label="FRAME - modular interface design concept preview">
+<rect width="1200" height="680" fill="#0b0c10"/>
+
+<rect x="38" y="36" width="1124" height="608" rx="20" fill="#f3efe9"/>
+<text x="82" y="95" font-family="Arial" font-size="31" font-weight="700" fill="#282626">FRAME</text>
+<text x="82" y="131" font-family="Arial" font-size="18" letter-spacing="2" fill="#8b8681">DESIGN SYSTEM CONCEPT / 03</text>
+<text x="80" y="218" font-family="Arial" font-size="65" font-weight="700" letter-spacing="-2" fill="#282626">Designed to feel right.</text>
+<line x1="80" y1="259" x2="1110" y2="259" stroke="#c8c3bd" stroke-width="2"/>
+<rect x="80" y="289" width="250" height="245" rx="16" fill="#2b2d29"/>
+<text x="105" y="329" font-family="Arial" font-size="18" fill="#ebebe4">01. FOUNDATION</text>
+<circle cx="204" cy="414" r="61" fill="#e1a895"/>
+<text x="103" y="508" font-family="Arial" font-size="21" fill="#efede9">Color &amp; intent</text>
+<rect x="350" y="289" width="250" height="245" rx="16" fill="#e2ded7"/>
+<text x="375" y="329" font-family="Arial" font-size="18" fill="#5d5953">02. TYPE</text>
+<text x="380" y="437" font-family="Arial" font-size="126" font-weight="700" letter-spacing="-9" fill="#252626">Aa</text>
+<text x="375" y="508" font-family="Arial" font-size="21" fill="#5f5b54">Typographic scale</text>
+<rect x="620" y="289" width="489" height="245" rx="16" fill="#d8b0a2"/>
+<text x="645" y="329" font-family="Arial" font-size="18" fill="#302b29">03. COMPONENTS</text>
+<rect x="651" y="369" width="169" height="64" rx="12" fill="#262626"/><text x="733" y="410" text-anchor="middle" font-family="Arial" font-size="21" fill="#f4efe9">Continue →</text>
+<rect x="838" y="369" width="239" height="64" rx="12" fill="#eee9e3"/><text x="957" y="410" text-anchor="middle" font-family="Arial" font-size="21" fill="#262626">Secondary</text>
+<rect x="649" y="457" width="26" height="26" rx="7" fill="#292929"/><path d="M656 470l6 6 11 -14" fill="none" stroke="white" stroke-width="2"/>
+<text x="688" y="478" font-family="Arial" font-size="20" fill="#282626">Every detail matters.</text>
+
+</svg>
